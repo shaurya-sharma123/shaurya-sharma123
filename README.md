@@ -15,7 +15,7 @@
 ### AI / Machine Learning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chromadb/chromadb-original.svg" alt="ChromaDB" width="40" height="40" style="margin-right: 10px;" onerror="this.src='https://img.shields.io/badge/ChromaDB\-9cf?style=for-the-badge&logo=databricks&logoColor=white'" />
+  <img src="https://simpleicons.org/icons/chromadb.svg" alt="ChromaDB" width="30" height="30" style="background-color: #0d1117; border: 5px solid #0d1117; border-radius: 10px; margin-right: 10px; vertical-align: top;" />
 </p>
 
 ### Cloud & DevOps
