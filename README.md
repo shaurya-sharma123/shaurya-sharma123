@@ -90,6 +90,9 @@
 
 <!-- Soft Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,18,10,2&height=140&section=footer" width="100%" alt="soft animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,18,10,2&height=60&section=footer" width="100%" alt="wave animation" />
 </p>
-<p align="center">From [Shaurya Sharma](https://github.com/shaurya-sharma123)</p>
+
+<p align="center">
+  From <a href="https://linkedin.com/in/shaurya-sharma-0748353a1" target="_blank">Shaurya Sharma</a>
+</p>
