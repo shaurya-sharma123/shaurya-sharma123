@@ -65,15 +65,6 @@
 
 ---
 
-## GitHub Achievements
-
-<p align="center">
-  <!-- GitHub Trophies Card (Ryfllw) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shaurya_sharma123&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ## Connect with Me
 
 <p align="center">
