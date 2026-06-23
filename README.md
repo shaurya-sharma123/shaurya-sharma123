@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I'm Shaurya Sharma</h1>
 <h3 align="center">Software Developer | Aspiring Full Stack Developer | GenAI Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=7aa2f7&center=true&vCenter=true&width=450&lines=Full+Stack+Development;FastAPI;VectorDB;Data+Structures+&+Algorithms" alt="Typing SVG" />
+</p>
 
 ## About Me
 
@@ -7,6 +10,7 @@
 * Aspiring **Full Stack Developer**.
 * Exploring ways to integrate **GenAI** into everyday developer workflows.
 * Consistently improving my **Problem Solving Skills**.
+* Sharpening my knowledge on **Data Structures and Algorithms**.
 * Open to collaborate on **Open Source Projects**.
 * 📧 **Email:** <a href="mailto:shaurya.s.hp@gmail.com">shaurya.s.hp@gmail.com</a>
 
@@ -47,9 +51,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px;" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg"
----
-
+<img src="https://api.iconify.design/logos:c.svg" alt="C" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;" />
+  
 ## GitHub Statistics
 
 <p align="center">
