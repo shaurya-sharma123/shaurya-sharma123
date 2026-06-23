@@ -8,7 +8,7 @@
 * Exploring ways to integrate **GenAI** into everyday developer workflows.
 * Consistently improving my **Problem Solving Skills**.
 * Open to collaborate on **Open Source Projects**.
-* * 📧 **Email:** <a href="mailto:shaurya.s.hp@gmail.com">shaurya.s.hp@gmail.com</a>
+* 📧 **Email:** <a href="mailto:shaurya.s.hp@gmail.com">shaurya.s.hp@gmail.com</a>
 
 ## Tech Stack
 
