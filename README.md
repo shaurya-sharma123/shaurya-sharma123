@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shaurya Sharma</h1>
 <h3 align="center">Software Developer | Aspiring Full Stack Developer | GenAI Enthusiast</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=7aa2f7&center=true&vCenter=true&width=450&lines=Full+Stack+Development;FastAPI;VectorDB;Data+Structures+&+Algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=7aa2f7&center=true&vCenter=true&width=450&lines=Full+Stack+Development;FastAPI;Vector+Databases;Data+Structures+and+Algorithms;Problem+Solving" alt="Typing SVG" />
 </p>
 
 ## About Me
