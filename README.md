@@ -6,7 +6,7 @@
 
 ## About Me
 
-* **Computer Science Engineering** Student.
+* **Computer Science Engineering** student.
 * Aspiring **Full Stack Developer**.
 * Exploring ways to integrate **GenAI** into everyday developer workflows.
 * Consistently improving my **Problem Solving Skills**.
